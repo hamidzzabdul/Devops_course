@@ -1,5 +1,7 @@
 Saturn has many mons 
 Mimas
-Dione
+Tethys
 Rhea
-Hyoerion
+Phoebe
+Hyperion
+Pan
